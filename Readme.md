@@ -1,4 +1,9 @@
-i did two questions of leetcode today here are the links of my solutions 
-https://leetcode.com/submissions/detail/1800264704/
-https://www.interviewbit.com/problems/longest-increasing-subsequence/
-i did watch a youtube video for dp. 
+ DAY 1- i did two questions of leetcode today here are the links of my solutions<br>
+https://leetcode.com/submissions/detail/1800264704/<br>
+https://www.interviewbit.com/problems/longest-increasing-subsequence/<br>
+i did watch a youtube video for dp.<br> 
+DAY-2 Questions solved today <br>
+https://leetcode.com/submissions/detail/1801414108/<br>
+https://leetcode.com/submissions/detail/1801201845/<br>
+https://codeforces.com/contest/1992/problem/D<br>
+
