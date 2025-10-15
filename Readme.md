@@ -6,4 +6,5 @@ DAY-2 Questions solved today <br>
 https://leetcode.com/submissions/detail/1801414108/<br>
 https://leetcode.com/submissions/detail/1801201845/<br>
 https://codeforces.com/contest/1992/problem/D<br>
-
+Day-3 question solved <br>https://codeforces.com/contest/1955/problem/D
+gave codechef contest
