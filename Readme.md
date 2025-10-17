@@ -10,3 +10,5 @@ Day-3 question solved <br>https://codeforces.com/contest/1955/problem/D<br>
 gave codechef contest<br>
 Day -4 question solved <br>
 https://codeforces.com/contest/2160/problem/D<br>
+Day-5 question solved <br>
+https://cses.fi/problemset/result/14965448/<br>
