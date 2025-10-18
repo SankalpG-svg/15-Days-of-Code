@@ -13,3 +13,8 @@ https://codeforces.com/contest/2160/problem/D<br>
 Day-5 question solved <br>
 https://cses.fi/problemset/result/14965448/<br>
 https://codeforces.com/contest/2162/problem/D<br>
+DAY-6 questions solved<br>
+https://cses.fi/problemset/result/14978363/<br>
+https://www.interviewbit.com/problems/unique-binary-search-trees/<br>
+https://codeforces.com/contest/2162/problem/E<br>
+Gave meta_hacker_cup 
