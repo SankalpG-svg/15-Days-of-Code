@@ -17,7 +17,7 @@ DAY-6 questions solved<br>
 https://cses.fi/problemset/result/14978363/<br>
 https://www.interviewbit.com/problems/unique-binary-search-trees/<br>
 https://codeforces.com/contest/2162/problem/E<br>
-Gave meta_hacker_cup 
+Gave meta_hacker_cup <br>
 Day-7 Questions solved<br>
 https://codeforces.com/contest/2154/problem/C1<br>
 https://codeforces.com/contest/2057/problem/C<br>
