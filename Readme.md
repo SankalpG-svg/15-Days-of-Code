@@ -21,3 +21,8 @@ Gave meta_hacker_cup <br>
 Day-7 Questions solved<br>
 https://codeforces.com/contest/2154/problem/C1<br>
 https://codeforces.com/contest/2057/problem/C<br>
+Day-9,Day-10 <br>
+Working under mini project<br>
+Day-11<br>
+Question solved<br>
+https://codeforces.com/contest/284/problem/A<br>
