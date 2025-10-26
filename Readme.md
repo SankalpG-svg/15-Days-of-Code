@@ -26,3 +26,13 @@ Working under mini project<br>
 Day-11<br>
 Question solved<br>
 https://codeforces.com/contest/284/problem/A<br>
+Day-12<br>
+GAve contest
+Question solved<br>
+https://codeforces.com/contest/2156/problem/A<br>
+https://codeforces.com/contest/2156/problem/B<br>
+https://codeforces.com/contest/2156/problem/C<br>
+https://codeforces.com/contest/2156/problem/F1<br>
+Day-13
+Question solved<br>
+https://codeforces.com/contest/1941/problem/D<br>
