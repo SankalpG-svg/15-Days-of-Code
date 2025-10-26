@@ -36,3 +36,9 @@ https://codeforces.com/contest/2156/problem/F1<br>
 Day-13
 Question solved<br>
 https://codeforces.com/contest/1941/problem/D<br>
+Day-14
+Question solved<br>
+https://codeforces.com/gym/644977/problem/A<br>
+https://codeforces.com/gym/644977/problem/B<br>
+https://codeforces.com/contest/1918/problem/C<br>
+https://codeforces.com/contest/1833/problem/E<br>
